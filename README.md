@@ -24,10 +24,10 @@ ai-rock-paper-scissors/
 ```
 #Developer Info
 
-1.Name: Suraj
-Role: Front-End & JavaScript Developer
-Portfolio: View Portfolio
-Email: survesuraj38@gmail.com
+-1.Name: Suraj
+-Role: Front-End & JavaScript Developer
+-Portfolio: View Portfolio
+-Email: survesuraj38@gmail.com
 
 ---
 Enjoy playing and try to outsmart the AI! 
