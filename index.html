@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Rock Paper Scissors</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>AI Rock Paper Scissors</h1>
+  <div class="scoreboard">
+    <div>User: <span id="user-score">0</span></div>
+    <div>AI: <span id="ai-score">0</span></div>
+    <div>Ties: <span id="tie-score">0</span></div>
+  </div>
+  <div class="choices">
+    <button data-move="rock"> Rock</button>
+    <button data-move="paper">Paper</button>
+    <button data-move="scissors"> Scissors</button>
+  </div>
+  <div id="selections">
+    <span>User chose: <span id="user-choice">-</span> <span id="user-icon"></span></span> |
+    <span>AI chose: <span id="ai-choice">-</span> <span id="ai-icon"></span></span>
+  </div>
+  <div id="result"></div>
+  <button id="reset-btn">Reset Game</button>
+  <script src="script.js"></script>
+</body>
+</html>
