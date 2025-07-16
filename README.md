@@ -17,7 +17,7 @@ A simple, interactive Rock Paper Scissors game where you play against an AI that
 
 ## Play now :-
 
-[!Let's go]https://suraj-7874.github.io/Play_with_Ai/
+[!Let's go][https://suraj-7874.github.io/Play_with_Ai/]
 
 ## File Structure
 ```bash
