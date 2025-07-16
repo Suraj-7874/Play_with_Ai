@@ -16,8 +16,7 @@ A simple, interactive Rock Paper Scissors game where you play against an AI that
 4. View your score, the AI's score, and ties. Use the Reset button to start over.
 
 ## Play now :-
-
-[!Let's go][https://suraj-7874.github.io/Play_with_Ai/]
+https://suraj-7874.github.io/Play_with_Ai/
 
 ## File Structure
 ```bash
@@ -28,10 +27,10 @@ ai-rock-paper-scissors/
 ```
 #Developer Info
 
-1 . Name: Suraj
-2 . Role: Front-End & JavaScript Developer
-3 . Portfolio: View Portfolio
-4 . Email: survesuraj38@gmail.com
+1 . Name: Suraj .
+2 . Role: Front-End & JavaScript Developer.
+3 . Portfolio: View Portfolio.
+4 . Email: survesuraj38@gmail.com.
 
 ---
 Enjoy playing and try to outsmart the AI! 
