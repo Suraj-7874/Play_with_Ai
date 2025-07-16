@@ -1,4 +1,4 @@
-# AI-based Rock Paper Scissors Game
+#AI-based Rock Paper Scissors Game
 
 A simple, interactive Rock Paper Scissors game where you play against an AI that tries to predict your next move based on your previous choices. Built with HTML, CSS, and JavaScript.
 
@@ -16,13 +16,18 @@ A simple, interactive Rock Paper Scissors game where you play against an AI that
 4. View your score, the AI's score, and ties. Use the Reset button to start over.
 
 ## File Structure
-- `index.html` – Main HTML file
-- `styles.css` – Styling and responsive design
-- `script.js` – Game logic and AI
+```bash
+ai-rock-paper-scissors/
+├── index.html       # Game structure
+├── styles.css       # Styling and layout
+└── script.js        # Game logic + AI logic
+```
+#Developer Info
 
-## Credits
-- Developed by [Your Name]
-- Emoji icons from Unicode
+1.Name: Suraj
+Role: Front-End & JavaScript Developer
+Portfolio: View Portfolio
+Email: survesuraj38@gmail.com
 
 ---
 Enjoy playing and try to outsmart the AI! 
