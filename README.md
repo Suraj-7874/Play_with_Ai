@@ -15,6 +15,10 @@ A simple, interactive Rock Paper Scissors game where you play against an AI that
 3. Click Rock, Paper, or Scissors to play against the AI.
 4. View your score, the AI's score, and ties. Use the Reset button to start over.
 
+## Play now :-
+
+[!Let's go]https://suraj-7874.github.io/Play_with_Ai/
+
 ## File Structure
 ```bash
 ai-rock-paper-scissors/
